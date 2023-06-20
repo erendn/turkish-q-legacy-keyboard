@@ -5,7 +5,11 @@ one in MacOS.
 
 
 
-## Table Of Contents
+## [Download / İndir](https://github.com/erendn/turkish-q-legacy-keyboard/archive/main.zip)
+
+
+
+## Table of Contents
 
 ### English
 + [How to Use?](#how-to-use)
@@ -18,9 +22,9 @@ one in MacOS.
 
 ## How to Use?
 
-This keyboard layout uses the `AltGr` key (`Alt` key on the right) to press the
+This keyboard layout uses the `AltGr` key (`Alt` key on the right) to type the
 Turkish-specific letters (ç, Ç, ğ, Ğ, ı, İ, ö, Ö, ş, Ş, ü, Ü). For
-instamce, you can press `O + AltGr` to type `Ö`.
+instance, you can press `O + AltGr` to type `Ö`.
 
 
 
